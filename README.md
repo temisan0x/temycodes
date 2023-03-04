@@ -1,6 +1,6 @@
 ![MasterHead](https://thumbs.dreamstime.com/z/web-html-coding-website-banner-front-end-developing-programming-language-mixed-media-212768540.jpg)
 <h1 align="center">Hi 👋, I'm Temisan Momodu</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A Web Developer</h3>
 <img align="right" width="400" alt="coding" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fimages%2Fd02f68f2b8785baa2e72115dec9bceed%2Ftenor.gif&f=1&nofb=1&ipt=21ac06c660ddd6c4bc927868c7982b0d4270c6f6ea18228a7b65cd39d9dbc77b&ipo=images"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temycodes&label=Profile%20views&color=0e75b6&style=flat" alt="temycodes" /> </p>
 
@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/datemicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="datemicode" height="30" width="40" /></a>
+<a href="https://twitter.com/temycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="datemicode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/temycodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temycodes" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/temisan-momodu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="temisan-momodu" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14355211/temisan-momodu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="temisan-momodu" height="30" width="40" /></a>
 <a href="https://fb.com/temycodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="temycodes" height="30" width="40" /></a>
 </p>
 
