@@ -10,9 +10,7 @@
 
 - 👯 I’m looking to collaborate on **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [temicodes.herokuapp.com/](temicodes.herokuapp.com/)
-
-- 💬 Ask me about **React.js, TypeScript, Scss**
+- 💬 Ask me about **React.js, TypeScript, Scss**, Tailwind CSS
 
 - 📫 How to reach me **temycodes@gmail.com**
 
