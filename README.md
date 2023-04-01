@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **MERN STACK**
 
-- 💬 Ask me about **React.js, TypeScript, Scss**, Tailwind CSS
+- 💬 Ask me about **React.js, TypeScript, Scss, Tailwind CSS**
 
 - 📫 How to reach me **temycodes@gmail.com**
 
