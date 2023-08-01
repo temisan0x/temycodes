@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Temisan Momodu</h1>
-<h3 align="center">A Web Developer</h3>
+<h1 align="center">Hello, I'm Temisan Momodu</h1>
+<h3 align="center">A MERN Stack Developer</h3>
 <p align="left">
-- 🔭 I’m currently working on [Remotely](https://codecrafted.vercel.app//)
+- 🔭 I’m currently working on [Codecrafted](https://codecrafted.vercel.app//)
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱👯 I’m looking to collaborate on **MERN STACK**
 
-- 👯 I’m looking to collaborate on **MERN STACK**
-
-- 💬 Ask me about **Nextjs,TypeScript, Scss, Tailwind CSS**
+- 💬 Ask me about **Nextjs, TypeScript, Scss, Tailwind CSS**
 
 - 📫 How to reach me **temycodes@gmail.com**
 
