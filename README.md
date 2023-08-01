@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.dreamstime.com/z/web-html-coding-website-banner-front-end-developing-programming-language-mixed-media-212768540.jpg)
+//![MasterHead](https://thumbs.dreamstime.com/z/web-html-coding-website-banner-front-end-developing-programming-language-mixed-media-212768540.jpg)
 <h1 align="center">Hi 👋, I'm Temisan Momodu</h1>
 <h3 align="center">A Web Developer</h3>
 <p align="left">
