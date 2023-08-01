@@ -4,13 +4,13 @@
 <img align="right" width="400" alt="coding" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fimages%2Fd02f68f2b8785baa2e72115dec9bceed%2Ftenor.gif&f=1&nofb=1&ipt=21ac06c660ddd6c4bc927868c7982b0d4270c6f6ea18228a7b65cd39d9dbc77b&ipo=images"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temycodes&label=Profile%20views&color=0e75b6&style=flat" alt="temycodes" /> </p>
 
-- 🔭 I’m currently working on [Remotely](https://remotely.vercel.app//)
+- 🔭 I’m currently working on [Remotely](https://codecrafted.vercel.app//)
 
 - 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on **MERN STACK**
 
-- 💬 Ask me about **React.js, TypeScript, Scss, Tailwind CSS**
+- 💬 Ask me about **Nextjs,TypeScript, Scss, Tailwind CSS**
 
 - 📫 How to reach me **temycodes@gmail.com**
 
