@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Codecrafted](https://codecrafted.vercel.app/) my personal blog 😉. 
 
-- 👯 I’m looking to collaborate on **MERN STACK & Solidity**
+- 👯 I’m looking to collaborate on **MERN STACK & Solidity - Smart Contract**
 
 - 💬 Ask me about **Nextjs, TypeScript, Mongo DB**
 
