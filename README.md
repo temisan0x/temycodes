@@ -1,9 +1,10 @@
 <h1 align="center">Hello, I'm Temisan Momodu</h1>
 <h3 align="center">A MERN Stack Developer</h3>
 <p align="left">
-- 🔭 I’m currently working on [Codecrafted](https://codecrafted.vercel.app/) my personal blog 😉.
 
-- 🌱👯 I’m looking to collaborate on **MERN STACK & Solidity**
+- 🔭 I’m currently working on [Codecrafted](https://codecrafted.vercel.app/) my personal blog 😉. 
+
+- 👯 I’m looking to collaborate on **MERN STACK & Solidity**
 
 - 💬 Ask me about **Nextjs, TypeScript, Mongo DB**
 
