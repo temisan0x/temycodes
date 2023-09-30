@@ -10,11 +10,11 @@
 
 - 📫 How to reach me **temycodes@gmail.com**
 
-- ⚡ Fun fact **I am very creative.**
+- ⚡ Fun fact **I am very very creative.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/temycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="datemicode" height="30" width="40" /></a>
+<a href="https://twitter.com/temycodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="datemicode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/temycodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temycodes" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14355211/temisan-momodu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="temisan-momodu" height="30" width="40" /></a>
 <a href="https://fb.com/temycodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="temycodes" height="30" width="40" /></a>
