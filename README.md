@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Temisan Momodu</h1>
+<h1 align="center">Hello, I'm Temisan Momodu (temycodes)</h1>
 <h3 align="center">A MERN Stack Developer</h3>
 <p align="left">
 
